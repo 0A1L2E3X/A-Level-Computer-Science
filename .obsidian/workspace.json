@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "9165dcaf95609bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "27dec769306cb2c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "376faa0fcf00fec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 04 Processor/Direct addressing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec9e2a509f9fd6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 04 Processor/List - Assembly Instruction.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a49933a674c452b",
+    "type": "split",
+    "children": [
+      {
+        "id": "823277251269c01d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23fca72e0bbdabd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "342b01adb14142ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c7a0f6da1bf5e36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c680933c058ce7ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3827533e9b6c003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c39521bc4d8ce97e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unit 04 Processor/Direct addressing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "124e1026966b1b50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unit 04 Processor/Direct addressing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71a780113b9c81d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d91c26368cce988e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unit 04 Processor/Direct addressing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "376faa0fcf00fec5",
+  "lastOpenFiles": [
+    "Unit 04 Processor/List - Assembly Instruction.md",
+    "Unit 04 Processor/Indirect addressing.md",
+    "Unit 04 Processor/Direct addressing.md",
+    "Untitled.canvas",
+    "2023-12-07.md",
+    "Unit 04 Processor"
+  ]
+}
