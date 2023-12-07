@@ -9,3 +9,6 @@ e.g.
 | 101 | 100 |
 
 LDI 101 : load content 123 to ACC
+
+
+|> [[List - Assembly Instruction]]

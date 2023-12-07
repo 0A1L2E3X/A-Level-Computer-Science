@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 04 Processor/Direct addressing.md",
+                "file": "Unit 04 Processor/List - Assembly Instruction.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 04 Processor/Direct addressing.md",
+                "file": "Unit 04 Processor/List - Assembly Instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 04 Processor/Direct addressing.md",
+                "file": "Unit 04 Processor/List - Assembly Instruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 04 Processor/Direct addressing.md"
+                "file": "Unit 04 Processor/List - Assembly Instruction.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "376faa0fcf00fec5",
   "lastOpenFiles": [
+    "Unit 04 Processor/Direct addressing.md",
     "Unit 04 Processor/List - Assembly Instruction.md",
     "Unit 04 Processor/Indirect addressing.md",
-    "Unit 04 Processor/Direct addressing.md",
     "Untitled.canvas",
     "2023-12-07.md",
     "Unit 04 Processor"
