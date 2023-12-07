@@ -1,0 +1,5 @@
+- Absolute & [[Direct addressing]]
+- Indirect addressing
+- Immediate addressing
+- Relative addressing
+- Indexed addressing

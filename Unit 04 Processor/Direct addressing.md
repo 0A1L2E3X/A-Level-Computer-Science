@@ -1,0 +1,1 @@
+-> loads contents at address into ACC
