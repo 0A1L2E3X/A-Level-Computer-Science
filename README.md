@@ -1,5 +1,5 @@
 ### This is a simple note written on Obsidian.
-Solely for the purpose of studing GIT & sharing notes.
+Solely for the purpose of studying GIT & sharing notes.
 
 #note
 please contact me if you are interesting in 

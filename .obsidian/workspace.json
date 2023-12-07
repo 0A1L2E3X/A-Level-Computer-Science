@@ -11,12 +11,8 @@
             "id": "376faa0fcf00fec5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 04 Processor/List - Assembly Instruction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -25,13 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 04 Processor/List - Assembly Instruction.md",
-                "mode": "preview",
+                "file": "Unit 04 Processor/List - Registers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2b1b1dfd2f62ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 04 Processor/ACC - Accumulator.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 04 Processor/List - Assembly Instruction.md",
+                "file": "Unit 04 Processor/ACC - Accumulator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 04 Processor/List - Assembly Instruction.md",
+                "file": "Unit 04 Processor/ACC - Accumulator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 04 Processor/List - Assembly Instruction.md"
+                "file": "Unit 04 Processor/ACC - Accumulator.md"
               }
             }
           }
@@ -158,11 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "376faa0fcf00fec5",
+  "active": "e2b1b1dfd2f62ddf",
   "lastOpenFiles": [
+    "Unit 04 Processor/List - Registers.md",
     "Unit 04 Processor/Direct addressing.md",
-    "Unit 04 Processor/List - Assembly Instruction.md",
     "Unit 04 Processor/Indirect addressing.md",
+    "Unit 04 Processor/List - Assembly Instruction.md",
+    "Unit 04 Processor/ACC - Accumulator.md",
+    "Unit 04 Processor/PC - Program Counter.md",
+    "Program Counter.md",
+    "README.md",
     "Untitled.canvas",
     "2023-12-07.md",
     "Unit 04 Processor"

@@ -1,0 +1,1 @@
+-> holds all value that are processed by arithmetic & logical operations
