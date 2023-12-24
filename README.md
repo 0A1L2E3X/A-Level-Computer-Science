@@ -1,7 +1,7 @@
 ### This is a simple note written on Obsidian.
 Solely for the purpose of studying GIT & sharing notes.
 
-#note
+-> note
 please contact me if you are interesting in 
 - game develop
 - computer science

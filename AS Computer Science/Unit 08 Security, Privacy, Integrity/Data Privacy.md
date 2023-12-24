@@ -1,0 +1,1 @@
+-> ability to determine what data can be shared to third party

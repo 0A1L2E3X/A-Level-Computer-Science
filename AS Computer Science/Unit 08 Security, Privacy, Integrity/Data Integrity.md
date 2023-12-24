@@ -1,0 +1,2 @@
+-> make sure VALID data
+-> does not corrupt after TRANSMITTION

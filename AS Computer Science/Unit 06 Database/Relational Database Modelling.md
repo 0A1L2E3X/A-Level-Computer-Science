@@ -1,0 +1,11 @@
+
+- Entity: object/event can be distinct defined
+- Table: contains a groups of relate entities in ROW & COLUME
+	- called entity set
+- Tuple: a row or a record in relational database
+- Attribute: a field or column in relational database
+- Primary Key: attribute that uniquely define each tuple in relation
+- Candidate Key: attribute that potentially be a primary key
+- Foreign Key: attribute that relates two(2) different tables
+- Referential integrity: prevents users from entering inconsistent data
+- Secondary Key: candidate keys not chosen as the primary key
