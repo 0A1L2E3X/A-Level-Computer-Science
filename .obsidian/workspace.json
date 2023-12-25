@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AS Computer Science/Unit 06 Database/File-based System.md",
+                "file": "AS Computer Science/Unit 06 Database/3rd Normal Form (3NF).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AS Computer Science/Unit 06 Database/File-based System.md",
+                "file": "AS Computer Science/Unit 06 Database/3rd Normal Form (3NF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AS Computer Science/Unit 06 Database/File-based System.md",
+                "file": "AS Computer Science/Unit 06 Database/3rd Normal Form (3NF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AS Computer Science/Unit 06 Database/File-based System.md"
+                "file": "AS Computer Science/Unit 06 Database/3rd Normal Form (3NF).md"
               }
             }
           }
@@ -148,18 +148,26 @@
   },
   "active": "ebaf84f4010f56d0",
   "lastOpenFiles": [
-    "AS Computer Science/Unit 06 Database/Disadvantages for File-based System.md",
-    "AS Computer Science/Unit 06 Database/File-based System.md",
+    "AS Computer Science/Unit 06 Database/2nd Normal Form (2NF).md",
+    "AS Computer Science/Unit 06 Database/1st Normal Form (1NF).md",
+    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Threats to Computer & Data Security.md",
+    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Spyware.md",
+    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Prevent malwares exist.md",
+    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Data Security & System Security.md",
+    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Data Security.md",
+    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Data Privacy.md",
+    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Data Integrity.md",
     "AS Computer Science/Summary.md",
+    "Arch Install/First Install.md",
+    "Arch Install",
+    "AS Computer Science/Unit 06 Database/File-based System.md",
+    "AS Computer Science/Unit 06 Database/Disadvantages for File-based System.md",
     "未命名.md",
     "2023-12-21.md",
-    "AS Computer Science/Unit 06 Database/1st Normal Form (1NF).md",
     "AS Computer Science/Unit 06 Database/Untitled.md",
-    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Data Integrity.md",
     "README.md",
     "AS Computer Science/Unit 06 Database/Relational Database Modelling.md",
     "AS Computer Science/Unit 06 Database/Normalization.md",
-    "AS Computer Science/Unit 06 Database/2nd Normal Form (2NF).md",
     "AS Computer Science/Unit 06 Database/Data Definition Language (DDL).md",
     "AS Computer Science/Unit 06 Database/Data Manipulation Language (DML).md",
     "AS Computer Science/Unit 06 Database/SQL Syntax.md",
@@ -167,14 +175,7 @@
     "AS Computer Science/Unit 06 Database/3rd Normal Form (3NF).md",
     "AS Computer Science/Unit 04 Processor/List - Registers.md",
     "AS Computer Science/Unit 06 Database",
-    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Threats to Computer & Data Security.md",
     "AS Computer Science/Unit 08 Security, Privacy, Integrity/Virus.md",
-    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Prevent malwares exist.md",
-    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Spyware.md",
-    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Data Security & System Security.md",
-    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Data Privacy.md",
-    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Data Security.md",
-    "AS Computer Science/Unit 08 Security, Privacy, Integrity/Malware.md",
     "AS Computer Science/Unit 08 Security, Privacy, Integrity",
     "AS Computer Science",
     "Untitled.canvas",

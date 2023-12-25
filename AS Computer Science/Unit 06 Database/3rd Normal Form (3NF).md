@@ -5,6 +5,8 @@
 
 -> all many-to-many relations must use many-to-one
 
+-> there are no non-key dependencies
+
 [mark*]
 see all relations ==> [[Relations of Database System]]
 
